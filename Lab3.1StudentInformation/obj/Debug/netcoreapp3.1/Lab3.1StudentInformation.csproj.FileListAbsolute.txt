@@ -1,0 +1,13 @@
+C:\Users\vphillips\dev\Lab3.1StudentInformation\Lab3.1StudentInformation\bin\Debug\netcoreapp3.1\Lab3.1StudentInformation.exe
+C:\Users\vphillips\dev\Lab3.1StudentInformation\Lab3.1StudentInformation\bin\Debug\netcoreapp3.1\Lab3.1StudentInformation.deps.json
+C:\Users\vphillips\dev\Lab3.1StudentInformation\Lab3.1StudentInformation\bin\Debug\netcoreapp3.1\Lab3.1StudentInformation.runtimeconfig.json
+C:\Users\vphillips\dev\Lab3.1StudentInformation\Lab3.1StudentInformation\bin\Debug\netcoreapp3.1\Lab3.1StudentInformation.runtimeconfig.dev.json
+C:\Users\vphillips\dev\Lab3.1StudentInformation\Lab3.1StudentInformation\bin\Debug\netcoreapp3.1\Lab3.1StudentInformation.dll
+C:\Users\vphillips\dev\Lab3.1StudentInformation\Lab3.1StudentInformation\bin\Debug\netcoreapp3.1\Lab3.1StudentInformation.pdb
+C:\Users\vphillips\dev\Lab3.1StudentInformation\Lab3.1StudentInformation\obj\Debug\netcoreapp3.1\Lab3.1StudentInformation.csprojAssemblyReference.cache
+C:\Users\vphillips\dev\Lab3.1StudentInformation\Lab3.1StudentInformation\obj\Debug\netcoreapp3.1\Lab3.1StudentInformation.AssemblyInfoInputs.cache
+C:\Users\vphillips\dev\Lab3.1StudentInformation\Lab3.1StudentInformation\obj\Debug\netcoreapp3.1\Lab3.1StudentInformation.AssemblyInfo.cs
+C:\Users\vphillips\dev\Lab3.1StudentInformation\Lab3.1StudentInformation\obj\Debug\netcoreapp3.1\Lab3.1StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\vphillips\dev\Lab3.1StudentInformation\Lab3.1StudentInformation\obj\Debug\netcoreapp3.1\Lab3.1StudentInformation.dll
+C:\Users\vphillips\dev\Lab3.1StudentInformation\Lab3.1StudentInformation\obj\Debug\netcoreapp3.1\Lab3.1StudentInformation.pdb
+C:\Users\vphillips\dev\Lab3.1StudentInformation\Lab3.1StudentInformation\obj\Debug\netcoreapp3.1\Lab3.1StudentInformation.genruntimeconfig.cache
